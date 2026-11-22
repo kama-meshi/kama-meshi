@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">kama-meshi</title>
+  <desc id="desc">building · learning · iterating</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101d31" />
+      <stop offset="1" stop-color="#0b1220" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" rx="18" fill="url(#background)" />
+  <rect x="1" y="1" width="1198" height="398" rx="17" fill="none" stroke="#26354b" stroke-width="2" />
+  <g fill="#536177">
+    <circle cx="36" cy="30" r="5" />
+    <circle cx="54" cy="30" r="5" />
+    <circle cx="72" cy="30" r="5" />
+  </g>
+  <path d="M1 59H1199" stroke="#26354b" />
+  <path d="M79 176L95 190L79 204" fill="none" stroke="#79d9c4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="125" y="213" fill="#eef3fa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="88" font-weight="600" letter-spacing="-2">kama-meshi</text>
+  <rect x="658" y="148" width="4" height="70" rx="1" fill="#79d9c4" opacity="0.75" />
+  <text x="125" y="276" fill="#acbace" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="40" letter-spacing="0.2">building · learning · iterating</text>
+  <path d="M125 324H195" stroke="#79d9c4" stroke-width="3" stroke-linecap="round" opacity="0.65" />
+</svg>
